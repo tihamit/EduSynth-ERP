@@ -25,15 +25,16 @@ EduSynth is built using Laravel, with CSS, HTML for front-end design, and MySQL 
 
 **Technologies Used**
 - Back-End: Laravel (PHP Framework)
-- Front-End: HTML, CSS
+- Front-End: HTML, CSS, React
 - Database: MySQL
 - Version Control: Git and GitHub
 
 **Project Roles**
-
-*Tihami Rahman: Front-end development and database management.*
+*Tihami rahman : Integration and back-end logic and database management.*
 
 *Gaurav Sen: Integration and back-end logic.*
+
+*Seema : Front-end development .*
 
 **Installation and Setup**
 
@@ -140,6 +141,7 @@ Tihami Rahman
 
 Gaurav Sen
 
+Seema
 ## Project Screenshots
 
 Below are a few screenshots showcasing key features.
